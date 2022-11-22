@@ -1,6 +1,3 @@
-# MUHAMMAD ASIF KHAN
-# SP20-BCS-130
-
 graph = {
     "A": ["B", "D"],
     "B": ["A", "C", "D"],

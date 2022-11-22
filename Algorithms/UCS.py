@@ -1,6 +1,3 @@
-# MUHAMMAD ASIF KHAN
-# SP20-BCS-130
-
 from queue import PriorityQueue
 
 graph = {
