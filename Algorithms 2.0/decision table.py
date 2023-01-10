@@ -1,4 +1,5 @@
-# Implementation of Decision Table
+# Name:   Arsal Shahzaib Bin Mushtaq
+# Reg:    SP20-BCS-109
 
 
 def open_door():
